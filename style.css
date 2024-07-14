@@ -1,0 +1,25 @@
+body{
+    background-image:url('https://images.pexels.com/photos/431722/pexels-photo-431722.jpeg?auto=compress&cs=tinysrgb&w=600');
+    position: fixed;
+    color:white;
+    }
+
+ .inner{
+    width:500px;
+    margin:auto;
+    border:15px solid sandybrown;
+    padding:30px;
+    text-align: center; 
+}
+.outer{
+    width:100vw;
+    height:100vh;
+    display: grid;
+    place-items:center;
+}
+ h4{
+    color:wheat;
+}
+ #result{
+    color:whitesmoke;
+}  
